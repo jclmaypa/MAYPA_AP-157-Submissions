@@ -14,6 +14,4 @@ newGS = interp1(desiredCDF, x, CDF(Igray(:)+1));
 Igraynew = reshape(newGS, size(Igray));
 figure; imshow(uint8(Igraynew));
 
-%%
 
-disp(CDF(Igray(:)+1));
