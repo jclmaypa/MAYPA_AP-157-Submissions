@@ -1,0 +1,14 @@
+N = 400;                    % number of data points
+x = linspace(-2,2,N);       % range of x values
+y = linspace(-2,2,N);       % range of y values
+[X,Y] = meshgrid(x,y);      % making a mesh from the x and y values
+
+omega = 4;                   % cycles per cm
+amplitude = 255;
+R = amplitude*cos(omega*x.)*cos(omega*y);
+A = zeros(size(R));
+A(find(R<0.5)) = 1;
+figure (1);
+imshow(A);
+figure (2) ;
+mesh(x,y,A);

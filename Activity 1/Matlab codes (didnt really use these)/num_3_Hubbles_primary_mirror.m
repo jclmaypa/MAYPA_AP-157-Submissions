@@ -1,0 +1,23 @@
+clear all ; close all;
+N = 500;
+x = linspace(-10,10,N);
+y = x;
+[X,Y] = meshgrid(x,y);
+Rd = zeros(N,N);
+Gn = A; Bl =A;
+% draw colored circles
+Rt = 3; RC = 4; deg = 30;
+xt = Rt*cosd(deg); 
+yt = Rt*sind(deg);
+R = sqrt((X.^2) + (Y+Rt).^2);
+Rd (find (R<RC)) =1;
+R =sqrt((X-xt).^2 + (Y-yt).^2);
+Gn (find(R<RC)) = 1;
+R = sqrt((X+xt).^2 + (Y-yt).^2);
+Bl (find(R<RC)) = 1;
+I(:,:,1) = Rd;
+I(:,:,2) = Gn;
+I(:,:,3) = Bl;
+figure;
+image(I);
+axis equal;
