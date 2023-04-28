@@ -1,0 +1,3 @@
+cropped
+mean filtered 20 pixels
+automatic threshold

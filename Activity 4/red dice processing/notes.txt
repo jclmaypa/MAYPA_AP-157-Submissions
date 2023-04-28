@@ -1,0 +1,4 @@
+used green channel
+thresholded
+despeckle
+analyze 200-infinity

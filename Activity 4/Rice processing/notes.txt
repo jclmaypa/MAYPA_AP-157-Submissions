@@ -1,0 +1,6 @@
+cropped
+automatic threshold
+removed outliers
+despeckled
+
+
