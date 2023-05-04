@@ -1,0 +1,6 @@
+convert to HSB stack
+used brightness layer
+threshold 
+used fill holes
+removed outliers with pixel radius of 20
+used despeckle

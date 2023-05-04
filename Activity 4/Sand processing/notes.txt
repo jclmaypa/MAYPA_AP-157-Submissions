@@ -1,0 +1,4 @@
+thresholded
+despepckled
+removed outliers of radius 10
+binary- closing
