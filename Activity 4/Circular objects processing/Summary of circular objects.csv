@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
 Brightness,11,45.033,4.094,16.848,7.396,0.899,0.994
 Brightness,11,45.033,4.094,16.848,7.396,0.899,0.994
+=======
+Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
+Brightness,11,45.033,4.094,16.848,7.396,0.899,0.994
+Brightness,11,45.033,4.094,16.848,7.396,0.899,0.994
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767

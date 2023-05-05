@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 thresholded
 despepckled
 removed outliers of radius 10
+=======
+thresholded
+despepckled
+removed outliers of radius 10
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767
 binary- closing

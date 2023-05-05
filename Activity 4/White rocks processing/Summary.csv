@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
 white rocks.jpg,12,13.509,1.126,11.469,4.078,0.829,0.984
+=======
+Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
+white rocks.jpg,12,13.509,1.126,11.469,4.078,0.829,0.984
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767

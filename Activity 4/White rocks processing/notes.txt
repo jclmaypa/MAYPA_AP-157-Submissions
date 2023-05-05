@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 cropped
 mean filtered 20 pixels
 automatic threshold
+=======
+cropped
+mean filtered 20 pixels
+automatic threshold
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767

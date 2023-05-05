@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
 rice.jpg,35,3.682,0.105,5.213,1.402,0.665,0.973
+=======
+Slice,Count,Total Area,Average Size,%Area,Perim.,Circ.,Solidity
+rice.jpg,35,3.682,0.105,5.213,1.402,0.665,0.973
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767

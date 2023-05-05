@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 convert to HSB stack
 used brightness layer
 threshold 
 used fill holes
 removed outliers with pixel radius of 20
+=======
+convert to HSB stack
+used brightness layer
+threshold 
+used fill holes
+removed outliers with pixel radius of 20
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767
 used despeckle

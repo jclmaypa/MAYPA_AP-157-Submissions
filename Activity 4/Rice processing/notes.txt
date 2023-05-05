@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 cropped
 automatic threshold
 removed outliers
 despeckled
 
 
+=======
+cropped
+automatic threshold
+removed outliers
+despeckled
+
+
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767

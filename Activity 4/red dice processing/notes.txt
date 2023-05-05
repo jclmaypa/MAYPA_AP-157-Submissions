@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 used green channel
 thresholded
 despeckle
+=======
+used green channel
+thresholded
+despeckle
+>>>>>>> 78aa40b7dd4c1d8a81264336fcbc07efed0f1767
 analyze 200-infinity
